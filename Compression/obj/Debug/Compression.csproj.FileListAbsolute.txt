@@ -1,0 +1,7 @@
+C:\Users\test\OneDrive\Desktop\UBB\ISS\Huffman\Compression\bin\Debug\Compression.exe.config
+C:\Users\test\OneDrive\Desktop\UBB\ISS\Huffman\Compression\bin\Debug\Compression.exe
+C:\Users\test\OneDrive\Desktop\UBB\ISS\Huffman\Compression\bin\Debug\Compression.pdb
+C:\Users\test\OneDrive\Desktop\UBB\ISS\Huffman\Compression\obj\Debug\Compression.csproj.AssemblyReference.cache
+C:\Users\test\OneDrive\Desktop\UBB\ISS\Huffman\Compression\obj\Debug\Compression.csproj.CoreCompileInputs.cache
+C:\Users\test\OneDrive\Desktop\UBB\ISS\Huffman\Compression\obj\Debug\Compression.exe
+C:\Users\test\OneDrive\Desktop\UBB\ISS\Huffman\Compression\obj\Debug\Compression.pdb
